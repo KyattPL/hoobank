@@ -2,6 +2,7 @@
   "name": "hoobank",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://kyattpl.github.io/hoobank/",
   "type": "module",
   "scripts": {
     "dev": "vite",
